@@ -11,3 +11,5 @@ parts
 sdist
 var
 /data2
+/results
+/.ipynb_checkpoints
